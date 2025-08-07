@@ -1,0 +1,4 @@
+Daily source file:
+C:\Users\TutenLab-NUC3\Documents\Tuten_Lab\RedGreenThresholds\10001R\5_21_2024\TransferFromOCT\meanFrame.tif
+Master source file:
+C:\Users\TutenLab-NUC3\Documents\Tuten_Lab\RedGreenThresholds\10001R\2_1_2024\TransferFromOCT\meanFrame.tif

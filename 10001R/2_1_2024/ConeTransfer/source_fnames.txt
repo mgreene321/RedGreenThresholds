@@ -1,0 +1,4 @@
+Daily source file:
+C:\Users\TutenLab-NUC3\Documents\Tuten_Lab\RedGreenThresholds\10001R\2_1_2024\ConeTransfer\meanFrame.tif
+Master source file:
+C:\Users\TutenLab-NUC3\Documents\Tuten_Lab\Unique_yellow\Cone_classifications\10001R\output_08;21;21-15;37_optimal_2k2k_region.json

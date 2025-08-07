@@ -1,0 +1,4 @@
+Daily source file:
+C:\Users\TutenLab-NUC3\Documents\Tuten_Lab\RedGreenThresholds\20217R\ConeTransfersTo2_27_2024\meanMeanFrame.tif
+Master source file:
+Z:\Local_Share\Imaging_Data\AOVIS\20217R\11_9_2024_16_7_27\CustomRef16_21_30.tif

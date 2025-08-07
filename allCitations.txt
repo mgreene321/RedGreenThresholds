@@ -1,0 +1,163 @@
+@article{brainard2008trichromatic,
+  title={Trichromatic reconstruction from the interleaved cone mosaic: Bayesian model and the color appearance of small spots},
+  author={Brainard, David H and Williams, David R and Hofer, Heidi},
+  journal={Journal of vision},
+  volume={8},
+  number={5},
+  pages={15--15},
+  year={2008},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
+
+@article{krauskopf1964color,
+  title={Color appearance of small stimuli and the spatial distribution of color receptors},
+  author={Krauskopf, John},
+  journal={JOSA},
+  volume={54},
+  number={9},
+  pages={1171--1171},
+  year={1964},
+  publisher={Optica Publishing Group}
+}
+
+@article{krauskopf2000relative,
+  title={Relative number of long-and middle-wavelength-sensitive cones in the human fovea},
+  author={Krauskopf, John},
+  journal={JOSA A},
+  volume={17},
+  number={3},
+  pages={510--516},
+  year={2000},
+  publisher={Optica Publishing Group}
+}
+
+@article{buchsbaum1981retina,
+  title={The retina as a two-dimensional detector array in the context of color vision theories and signal detection theory},
+  author={Buchsbaum, Gershon},
+  journal={Proceedings of the IEEE},
+  volume={69},
+  number={7},
+  pages={772--786},
+  year={1981},
+  publisher={IEEE}
+}
+
+@article{connors1968luminance,
+  title={Luminance requirements for hue perception in small targets},
+  author={Connors, Mary M},
+  journal={JOSA},
+  volume={58},
+  number={2},
+  pages={258--263},
+  year={1968},
+  publisher={Optica Publishing Group}
+}
+@article{krauskopf1965spectral,
+  title={Spectral sensitivity of color mechanisms: Derivation from fluctuations of color appearance near threshold},
+  author={Krauskopf, John and Srebro, Richard},
+  journal={Science},
+  volume={150},
+  number={3702},
+  pages={1477--1479},
+  year={1965},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{massof1977quantum,
+  title={A quantum fluctuation model for foveal color thresholds},
+  author={Massof, Robert W},
+  journal={Vision Research},
+  volume={17},
+  number={4},
+  pages={565--570},
+  year={1977},
+  publisher={Elsevier Limited}
+}
+
+@article{wesner1991foveal,
+  title={Foveal cone detection statistics in color-normals and dichromats},
+  author={Wesner, Michael F and Pokorny, Joel and Shevell, Steven K and Smith, Vivianne C},
+  journal={Vision research},
+  volume={31},
+  number={6},
+  pages={1021--1037},
+  year={1991},
+  publisher={Elsevier}
+}
+
+@article{chaparro1994separable,
+  title={Separable red-green and luminance detectors for small flashes},
+  author={Chaparro, A and Stromeyer Iii, CF and Kronauer, RE and Eskew Jr, RT},
+  journal={Vision Research},
+  volume={34},
+  number={6},
+  pages={751--762},
+  year={1994},
+  publisher={Pergamon}
+}
+
+@article{krauskopf2000relative,
+  title={Relative number of long-and middle-wavelength-sensitive cones in the human fovea},
+  author={Krauskopf, John},
+  journal={JOSA A},
+  volume={17},
+  number={3},
+  pages={510--516},
+  year={2000},
+  publisher={Optica Publishing Group}
+}
+
+@article{finkelstein1984detection,
+  title={Detection and discrimination of small, brief lights: Variable tuning of opponent channels},
+  author={Finkelstein, Marcia A and Hood, Donald C},
+  journal={Vision research},
+  volume={24},
+  number={3},
+  pages={175--181},
+  year={1984},
+  publisher={Elsevier}
+}
+
+@article{finkelstein1982opponent,
+  title={Opponent-color cells can influence detection of small, brief lights},
+  author={Finkelstein, Marcia A and Hood, Donald C},
+  journal={Vision Research},
+  volume={22},
+  number={1},
+  pages={89--95},
+  year={1982},
+  publisher={Elsevier}
+}
+
+@article{buchsbaum1981retina,
+  title={The retina as a two-dimensional detector array in the context of color vision theories and signal detection theory},
+  author={Buchsbaum, Gershon},
+  journal={Proceedings of the IEEE},
+  volume={69},
+  number={7},
+  pages={772--786},
+  year={1981},
+  publisher={IEEE}
+}
+
+@article{chaparro1993colour,
+  title={Colour is what the eye sees best},
+  author={Chaparro, Alex and Stromeyer, C FIII and Huang, EP and Kronauer, RE and Eskew, Rhea T},
+  journal={Nature},
+  volume={361},
+  number={6410},
+  pages={348--350},
+  year={1993},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{connors1968luminance,
+  title={Luminance requirements for hue perception in small targets},
+  author={Connors, Mary M},
+  journal={JOSA},
+  volume={58},
+  number={2},
+  pages={258--263},
+  year={1968},
+  publisher={Optica Publishing Group}
+}

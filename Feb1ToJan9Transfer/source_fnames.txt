@@ -1,0 +1,4 @@
+Daily source file:
+Z:\Local_Share\Imaging_Data\AOVIS\10001\Right\2_1_2024_10_37_11\CustomRef10_40_09.tif
+Master source file:
+Z:\Local_Share\Imaging_Data\AOVIS\10001\Right\1_9_2024_13_56_24\CustomRef13_57_56.tif
